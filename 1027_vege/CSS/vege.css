@@ -1,0 +1,164 @@
+body{ margin: 0; padding: 0; }
+
+.container{
+    background-color: #EDF2C5;
+    width: 1260px;
+    height: 880px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Vege{
+    color: #778A50;
+    font-family: "Arial Black";
+    font-size: 44px;
+    padding-top: 30px;
+    padding-bottom: 8px;
+    margin: 0px 0px 8px 160px;
+}
+
+.icon-box{
+    display: flex;
+    float: right;
+    margin: -48px 160px 0px 0px;    
+}
+
+#line{
+    height: 25px;
+    border-right: solid #778A50 1px;
+    float: right;
+}
+
+#IG{
+    float: right;
+    width: 25px;
+    height: 25px;
+    margin: 0px 10px 0px 10px;
+}
+
+#FB{
+    float: right;
+    width: 25px;
+    height: 25px;
+}
+
+#button_JOIN{
+    color: #778A50;
+    background-color: transparent; /*透明*/
+    font-weight: bold; /*粗體*/
+    font-size: 14px;
+    width: 50px;
+    height: 25px;
+    border: 1px solid #778A50; /*外框線+填色*/
+    border-radius: 3px;
+    float: right; /*置右*/
+}
+
+#button_LOGIN{
+    color: #778A50;
+    background-color: transparent;
+    font-weight: bold;
+    font-size: 14px;
+    width: 60px;
+    height: 25px;
+    border: 1px solid #778A50;
+    border-radius: 3px;
+    float: right;
+    margin: 0px 10px 0px 10px;
+}
+
+.box-nav{
+    background-color: #778A50;
+    border-radius: 3px;
+    width: 940px;
+    height: 44px;
+    margin: 0px 0px 20px 160px;
+}
+.nav-list{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+.nav-list-item{
+    list-style: none;
+    display: block;
+    color: #EDF2C5;
+    font-family: "Arial Black";
+    font-size: 16px;
+    padding: 10.5px 30px;
+}
+
+.img01{
+    width: 940px;
+    height: 440px;
+    margin-left: 160px;
+}
+
+.Down-Vege{
+    background-color: #778A50;
+    border-radius: 3px;
+    width: 415px;
+    height: 15px;
+    color: #EDF2C5;
+    font-family: "Arial Black";
+    font-size: 16px;
+    margin: 30px 0px 15px 160px;
+    padding: 10px 0px 20px 30px;
+}
+
+.imgs{
+    margin-left: 156px;
+}
+
+.img02{
+    width: 140px;
+    height: 140px;
+    margin: 0px 4px 30px 4px;
+}
+
+.Down-Con{
+    background-color: #778A50;
+    border-radius: 3px;
+    width: 415px;
+    height: 15px;
+    color: #EDF2C5;
+    font-family: "Arial Black";
+    font-size: 16px;
+    float: right;
+    margin: -233px 160px 0px 0px;
+    padding: 10px 0px 20px 30px;
+}
+
+.article{
+    background-color: #F7FBDA;
+    color: #7d7d7d;
+    font-family: Arial Regular;
+    font-size: 12px;
+    width: 430px;
+    height: 140px;
+    float: right;
+    padding: 0px 0px 0px 15px;
+    margin: -175px 160px 0px 0px;
+}
+
+.Down-line{
+    color: #7d7d7d;
+    width: 414px;
+    border-bottom: solid #7d7d7d 1px;
+    margin: 16px 0px 16px 0px;
+}
+
+.fot-box{
+    background-color: #778A50;
+    width: 1260px;
+    height: 60px;
+    position: absolute;
+}
+
+.fot-text{
+    color: #EDF2C5;
+    font-family: Arial Regular;
+    font-size: 12px;
+    padding: 12px 0px 12px 0px;
+    text-align: center;
+}
